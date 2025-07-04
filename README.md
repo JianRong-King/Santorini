@@ -2,8 +2,11 @@
 
 A Java implementation of the board game Santorini with a Swing-based GUI.
 
-## Author
-Jian Rong King
+## Authors
+1. Jian Rong King
+2. Wilson Tan
+3. Yong Han Lee
+4. Louis Jeremie Ing-Seng Ah Yuen
 
 ## Features
 
