@@ -12,7 +12,7 @@ A Java implementation of the board game Santorini with a Swing-based GUI.
 
 * Customizable board with multi-level towers and domes.
 * Simple and intuitive user interface using Java Swing.
-* God powers: Supports **Artemis** and **Demeter** **Zeus** now.
+* God powers: Supports **Artemis**, **Demeter** and **Zeus** now.
 * Multiplayer support: Play with up to 2 to 8 players.
 * Dynamic board size: adjust at /resources/map.txt. Where X is a valid board position and O is a hole.
 * Leaderboard: Keep track of player scores by storing at user device and support score refreshing.
