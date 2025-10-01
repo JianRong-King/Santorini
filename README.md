@@ -5,6 +5,17 @@ A Java implementation of the board game Santorini with a Swing-based GUI.
 <img width="791" height="585" alt="image" src="https://github.com/user-attachments/assets/21e40fb2-ae3e-4c87-8cc7-149496020ec8" />
 
 
+
+
+
+
+## UML Diagram 
+
+
+<img width="766" height="542" alt="image" src="https://github.com/user-attachments/assets/6dbb0f76-93a3-4173-8caf-8dafb0e3c88d" />
+
+https://lucid.app/lucidchart/b90bc17e-907c-4bba-a83f-417ab2d08daa/edit?viewport_loc=-3397%2C-2526%2C8071%2C5091%2C0_0&invitationId=inv_f05dde03-82f2-47b2-b15e-b4c02deb536b
+
 ## Authors
 1. Jian Rong King
 2. Wilson Tan
